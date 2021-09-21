@@ -1,0 +1,2 @@
+# McGillDiscordBOT
+Python discord bot
